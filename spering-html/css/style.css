@@ -291,6 +291,8 @@ a:focus {
 
 .slider_section .img-container .img-box img {
   width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
 }
 
 .slider_section #carouselExampleIndicators {
@@ -427,6 +429,8 @@ a:focus {
 
 .experience_section .img-box img {
   width: 100%;
+  height: auto;
+  aspect-ratio: 4/3;
 }
 
 .category_section {
@@ -494,6 +498,8 @@ a:focus {
 
 .about_section .img-box img {
   width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
 }
 
 .about_section .detail-box h2 {
@@ -582,6 +588,8 @@ a:focus {
 
 .freelance_section .img-box img {
   width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
 }
 
 .client_section .heading_container {
