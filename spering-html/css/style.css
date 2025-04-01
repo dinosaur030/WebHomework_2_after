@@ -37,8 +37,6 @@ body {
 .heading_container h2 {
   font-weight: bold;
   text-transform: uppercase;
-  color: #000000; /* 確保黑色文本在白色背景上 */
-  font-size: 2.2rem; /* 增加大小 */
 }
 
 /*header section*/
@@ -179,10 +177,8 @@ a:focus {
 }
 
 .login_btn-container a {
-  color: #0a8f89; /* 更深的青色，提高對比度 */
+  color: #1cbbb4;
   text-transform: uppercase;
-  font-weight: bold; /* 增加字體粗細 */
-  text-decoration: underline; /* 添加底線增加可見性 */
 }
 
 /*end header section*/
@@ -229,12 +225,11 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 10px 0;
-  background-color: #e51d29;
+  background-color: #ff4f5a;
   color: #ffffff;
   transition: all 0.3s;
   border: 1px solid transparent;
   border-radius: 0;
-  font-weight: bold;
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
@@ -292,7 +287,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 14px;
   background-position: center;
-  background-color: #0a8f89;
+  background-color: #1cbbb4;
   margin: 2px;
 }
 
@@ -356,12 +351,11 @@ a:focus {
 .experience_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 10px 0;
-  background-color: #e51d29;
+  background-color: #ff4f5a;
   color: #ffffff;
   transition: all 0.3s;
   border: 1px solid transparent;
   border-radius: 0;
-  font-weight: bold;
 }
 
 .experience_section .detail-box .btn-box .btn-1:hover {
@@ -393,7 +387,7 @@ a:focus {
 }
 
 .category_section {
-  background-color: #0a8f89;
+  background-color: #1cbbb4;
   color: #ffffff;
   text-align: center;
 }
@@ -498,10 +492,8 @@ a:focus {
 
 .freelance_section .tab_container .t-link-box .detail-box h5 {
   font-weight: bold;
-  color: #d01824; /* 更深的紅色，提高對比度 */
-  font-size: 1.25rem; /* 增加大小 */
+  color: #ff4f5a;
 }
-
 
 .freelance_section .tab_container .t-link-box .detail-box h3 {
   font-weight: bold;
@@ -578,8 +570,6 @@ a:focus {
   text-transform: uppercase;
   font-weight: bold;
   margin-bottom: 20px;
-  color: #ffffff; /* 確保白色文本在暗色背景上 */
-  font-size: 1.25rem; /* 增加大小 */
 }
 
 .info_section .info_top {
@@ -635,8 +625,6 @@ a:focus {
 
 .info_section ul li a {
   color: #ffffff;
-  font-weight: bold; /* 增加字體粗細 */
-  text-decoration: underline; /* 添加底線增加可見性 */
 }
 
 .info_section .info_link-box {
@@ -729,10 +717,8 @@ a:focus {
 .custom_menu-btn button {
   margin-top: 12px;
   outline: none;
-  border: 2px solid #ffffff; /* 添加邊框增加可見性 */
-  background-color: rgba(0, 0, 0, 0.2); /* 輕微背景色增加對比度 */
-  border-radius: 5px; /* 圓角邊框 */
-  padding: 5px;
+  border: none;
+  background-color: transparent;
 }
 
 .custom_menu-btn button span {
