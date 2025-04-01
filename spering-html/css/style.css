@@ -257,7 +257,7 @@ a:focus {
 .slider_section .img-container .img-box img {
   width: 100%;
   height: auto;
-  aspect-ratio: 444/250;
+  object-fit: cover;
 }
 
 .slider_section #carouselExampleIndicators {
@@ -383,7 +383,7 @@ a:focus {
 .experience_section .img-box img {
   width: 100%;
   height: auto;
-  aspect-ratio: 458/343;
+  object-fit: cover;
 }
 
 .category_section {
@@ -431,7 +431,7 @@ a:focus {
 .about_section .img-box img {
   width: 100%;
   height: auto;
-  aspect-ratio: 848/477;
+  object-fit: cover;
 }
 
 .about_section .detail-box h2 {
@@ -507,7 +507,7 @@ a:focus {
 .freelance_section .img-box img {
   width: 100%;
   height: auto;
-  aspect-ratio: 681/383;
+  object-fit: cover;
 }
 
 .client_section .heading_container {
